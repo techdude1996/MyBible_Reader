@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="mybible_reader">
+	<schema id="org.gnome.Mybible_Reader" path="/org/gnome/Mybible_Reader/">
+	</schema>
+</schemalist>

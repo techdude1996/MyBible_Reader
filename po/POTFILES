@@ -1,0 +1,5 @@
+data/org.gnome.Mybible_Reader.desktop.in
+data/org.gnome.Mybible_Reader.appdata.xml.in
+data/org.gnome.Mybible_Reader.gschema.xml
+src/mybible_reader-window.uisrc/main.c
+src/mybible_reader-window.c

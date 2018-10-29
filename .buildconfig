@@ -1,0 +1,9 @@
+[default]
+name=Default
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/ethan/.cache/gnome-builder/install/mybible_reader/host
+app-id=
+postbuild=
+prebuild=
